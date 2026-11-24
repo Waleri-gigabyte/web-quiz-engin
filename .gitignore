@@ -1,0 +1,13 @@
+# Ignore everything
+/*
+
+# Include source code
+!/src/
+
+# Include tests
+!/test/
+
+# Include gitignore
+!/.gitignore
+
+!/build.gradle
